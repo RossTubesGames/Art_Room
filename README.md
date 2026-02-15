@@ -17,7 +17,8 @@ The primary focus areas of this project were:
 
 ## Software Used
 
-- **Autodesk Maya 2025** – Modeling and UV unwrapping  
+- **Autodesk Maya 2025** – Modeling and UV unwrapping
+- - **Substamce painter 3D** – Texturing  
 - **Unity (Universal Render Pipeline)** – Scene setup, materials, lighting  
 - PBR texture workflow  
 
